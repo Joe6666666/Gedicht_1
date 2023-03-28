@@ -1,5 +1,7 @@
 Rot
 Grün
+Hellgrün
+Dunkelgrün
 Blau
 Gelb
 Schwarz
