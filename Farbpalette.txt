@@ -1,5 +1,7 @@
 Rot
 Grün
 Blau
+Gelb
+Schwarz
 
 Sind alles tolle Farben.
