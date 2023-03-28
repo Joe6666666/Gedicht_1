@@ -3,5 +3,6 @@ Grün
 Blau
 Gelb
 Schwarz
+Türkis
 
 Sind alles tolle Farben.
