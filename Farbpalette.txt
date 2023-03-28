@@ -4,5 +4,6 @@ Blau
 Gelb
 Schwarz
 Türkis
+Lila
 
 Sind alles tolle Farben.
